@@ -4,6 +4,10 @@
 
 This project is a voice-to-voice translator that allows users to speak in English and receive real-time translations in multiple languages, along with audio playback. The application leverages advanced AI-based speech recognition, translation, and text-to-speech technologies.
 
+## Sample Images
+![a screenshot of the interface](sample_img1.png)
+![a screenshot of the interface](sample_img2.png)
+
 ## AI and Language Preservation
 
 AI translation and AI voice acting technologies allow **movie viewers to choose any language** they desire for their viewing experience. These advancements enable seamless **translation and dubbing of films** into a multitude of languages, including **endangered or suppressed languages**.
@@ -53,9 +57,6 @@ You need API keys for the following services:
 - **Real-time Streaming**: Supports streaming audio generation for faster output.
 - **User-Friendly Interface**: Built using Gradio for a simple and interactive UI.
 
-## Sample Images
-![a screenshot of the interface](sample_img1.png)
-![a screenshot of the interface](sample_img2.png)
 ## Usage
 
 - Click on the **Record** button to capture your speech.
