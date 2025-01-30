@@ -48,9 +48,8 @@ You need API keys for the following services:
 - **User-Friendly Interface**: Built using Gradio for a simple and interactive UI.
 
 ## Sample Images
-
-&#x20;
-
+![a screenshot of the interface](sample_img1.png)
+![a screenshot of the interface](sample_img2.png)
 ## Usage
 
 - Click on the **Record** button to capture your speech.
