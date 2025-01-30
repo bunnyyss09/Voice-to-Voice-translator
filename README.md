@@ -4,6 +4,12 @@
 
 This project is a voice-to-voice translator that allows users to speak in English and receive real-time translations in multiple languages, along with audio playback. The application leverages advanced AI-based speech recognition, translation, and text-to-speech technologies.
 
+## AI and Language Preservation
+
+AI translation and AI voice acting technologies allow **movie viewers to choose any language** they desire for their viewing experience. These advancements enable seamless **translation and dubbing of films** into a multitude of languages, including **endangered or suppressed languages**.
+
+By making films accessible in these languages, **AI helps preserve and promote linguistic diversity**, giving speakers of endangered languages the opportunity to experience global media in their **native tongue**. This fosters **cultural pride, continuity, and language revitalization**, ensuring that languages at risk of disappearing remain part of our shared human heritage.
+
 ## Technologies Used
 
 - **Gradio** – Provides an easy-to-use web interface.
