@@ -4,6 +4,8 @@
 
 This project is a voice-to-voice translator that allows users to speak in English and receive real-time translations in multiple languages, along with audio playback. The application leverages advanced AI-based speech recognition, translation, and text-to-speech technologies.
 
+[![Hugging Face Spaces](https://img.shields.io/badge/HuggingFace-Spaces-blue?logo=huggingface)](https://huggingface.co/spaces/bunnyyss09/Voice-to-Voice-Translator)
+
 ## Sample Images
 ![a screenshot of the interface](sample_img1.png)
 ![a screenshot of the interface](sample_img2.png)
