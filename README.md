@@ -27,7 +27,7 @@ By making films accessible in these languages, **AI helps preserve and promote l
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/voice-to-voice-translator.git
+   git clone https://github.com/bunnyyss09/Voice-to-Voice-translator.git
    cd voice-to-voice-translator
    ```
 2. Install dependencies:
